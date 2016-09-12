@@ -1,6 +1,5 @@
-if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi
-
-##
+#if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi
+echo "Let's smile and rock!!!"
 
 export PATH="/opt/local/bin:/opt/local/sbin:$PATH"
 # Finished adapting your PATH environment variable for use with MacPorts.
@@ -19,3 +18,4 @@ alias gitc='git checkout'
 
 # sumblime set up
 alias subl="sublime"
+alias python='/usr/bin/python'

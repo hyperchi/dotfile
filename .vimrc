@@ -11,7 +11,6 @@ syntax on
 set term=xterm-256color
 
 "set paste from clipboard
-:set clipboard=unnamed
 :set number
 
 " Syntastic setup
